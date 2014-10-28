@@ -1,1 +1,1 @@
-controller.js
+console.log("my controller");
